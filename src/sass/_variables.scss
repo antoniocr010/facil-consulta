@@ -1,0 +1,37 @@
+// COLORS
+$yellow-1: #ffe766;
+$yellow-2: #fbde40;
+$primary: #483698;
+$danger: #dc3545;
+$white-1: #fff;
+$white-2: #f9f9f9;
+$black: #282828;
+$lightGray: #b9b9b9;
+$gray: #8a8a8a;
+
+//TRANSITION
+$transition-smooth: all 0.3s cubic-bezier(0.16, 0.08, 0.355, 1);
+$transition-fast: all 0.1s cubic-bezier(0.16, 0.08, 0.355, 1);
+
+// SPACINGS
+$spacing-xxsmall: 6px;
+$spacing-xsmall: 14px;
+$spacing-small: 20px;
+$spacing-medium: 20px;
+$spacing-large: 35px;
+$spacing-xlarge: 42px;
+$spacing-xxlarge: 50px;
+
+// FONT
+// Font-Size
+$text-small: 12px;
+$text-medium: 14px;
+$text-large: 18px;
+
+// Font-Weight
+$text-normal: 400;
+$text-semibold: 500;
+$text-bold: 600;
+
+// BREAKPOINTS
+$mobile: 767px;
